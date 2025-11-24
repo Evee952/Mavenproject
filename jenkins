@@ -92,7 +92,8 @@ stage('Clean Success Stage')
                                     echo 'Build successful'
 
                         }
-          stage('extra')
+}
+       stage('extra')
 
             {
 
@@ -107,5 +108,5 @@ stage('Clean Success Stage')
        }
 
       }
-
 }
+
