@@ -103,7 +103,8 @@ stage('Clean Success Stage')
                                     echo 'extra success'
 
                         }
-            }                      
+            }         
+       }
 
       }
 
